@@ -1,6 +1,6 @@
 <h1 align="center">
   <p></p>
-  <img src="assets/nyansdash.png" alt="Nyan's Dash" width="100" align="center">
+  Hey My Friends
   <p></p>
 </h1>
 
