@@ -1,13 +1,43 @@
-## 大家好，我是Chuanrui
+<h1 align="center">
+  <p></p>
+  <img src="assets/nyansdash.png" alt="Nyan's Dash" width="100" align="center">
+  <p></p>
+</h1>
 
-### 普通的中学生一枚..........
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,nodejs,ts,js,html,css,bash,lua" alt="languages"/>
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=docker,linux,aws,django,nextjs,postgres,redis,cloudflare" alt="tools"/>
+</p>
 
-#### 我自学PHP，HTML ，C++，C#，CSS 易语言，等多种编程语言（PS：虽说技术不咋地）
-
-#### 但是我有一颗肯钻研的心
-
-# 希望大家能对我的项目多多支持！谢谢
-<!---
-hvjg2578/hvjg2578 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=hvjg2578&theme=dark&show_icons=true&hide_border=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=hvjg2578&theme=vue&show_icons=true&hide_border=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=hvjg2578&theme=dark&show_icons=true&hide_border=true&count_private=true"
+      width="45%" alt="GitHub Stats"
+    />
+  </picture>
+  <picture>
+    <source
+      srcset="https://git-hub-streak-stats.vercel.app/?user=hvjg2578&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://git-hub-streak-stats.vercel.app/?user=hvjg2578&theme=vue&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://git-hub-streak-stats.vercel.app/?user=hvjg2578&theme=vue&hide_border=true"
+      width="47.6%" alt="GitHub Streak"
+    />
+  </picture>
+</p>
